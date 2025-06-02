@@ -29,6 +29,8 @@
     "@types/multer": "^1.4.12",
     "axios": "^1.9.0",
     "body-parser": "^2.2.0",
+    "class-transformer": "^0.5.1",
+    "class-validator": "^0.14.2",
     "cloudinary": "^2.6.1",
     "form-data": "^4.0.2",
     "multer": "^2.0.0",
